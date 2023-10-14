@@ -36,6 +36,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://i.imgur.com/6UuTpnK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://cdn.discordapp.com/attachments/721962382666104857/1162801344197968022/image.png?ex=653d4224&is=652acd24&hm=c206fd87e0339b927a56e31fecdb1ec8cfc8df12e583463310e715341639a7fb&"/>
+<img src="https://cdn.discordapp.com/attachments/721962382666104857/1162801383330828378/image.png?ex=653d422d&is=652acd2d&hm=67a7b8bc14316c61ee26823820f61723e01a954ebb3fc3bb29910f698457d248&"/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  GIF tool here
